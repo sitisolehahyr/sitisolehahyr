@@ -7,7 +7,7 @@ I combine deep knowledge of **LLMs and machine learning** with strong product th
 
 ---
 
-### 🚀 What I’m Working On
+### What I’m Working On
 - Developing **AI-powered web applications** and scalable full-stack solutions.  
 - Designing **retrieval-augmented generation (RAG) pipelines** and multimodal AI systems.  
 - Exploring the latest advancements in **large language models**, **deep learning**, and real-time analytics.
