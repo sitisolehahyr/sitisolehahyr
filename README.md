@@ -8,8 +8,8 @@ I combine deep knowledge of **LLMs and machine learning** with strong product th
 ---
 
 ###  What I’m Working On
-- Shipping **multi-tenant CRM** and AI-automation features at **AxionOne** (React/Next.js 15, tRPC, FastAPI, PostgreSQL).
-- Building **RAG pipelines** and multimodal AI apps at **Black Ace Media** using **ColBERT** and **DSPy**.
+- Shipping **multi-tenant CRM** and AI-automation features (React/Next.js 15, tRPC, FastAPI, PostgreSQL).
+- Building **RAG pipelines** and multimodal AI apps using **ColBERT** and **DSPy**.
 - Exploring the latest breakthroughs in **large language models**, **deep learning**, and real-time analytics.
 
 ---
