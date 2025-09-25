@@ -7,10 +7,10 @@ I combine deep knowledge of **LLMs and machine learning** with strong product th
 
 ---
 
-###  What I’m Working On
-- Shipping **multi-tenant CRM** and AI-automation features (React/Next.js 15, tRPC, FastAPI, PostgreSQL).
-- Building **RAG pipelines** and multimodal AI apps using **ColBERT** and **DSPy**.
-- Exploring the latest breakthroughs in **large language models**, **deep learning**, and real-time analytics.
+### 🚀 What I’m Working On
+- Developing **AI-powered web applications** and scalable full-stack solutions.  
+- Designing **retrieval-augmented generation (RAG) pipelines** and multimodal AI systems.  
+- Exploring the latest advancements in **large language models**, **deep learning**, and real-time analytics.
 
 ---
 
